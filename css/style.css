@@ -16,3 +16,18 @@ div.developer {
   padding: 6px;
   text-align: center;
 }
+
+div.fave_foods {
+  width: 250px;
+  display: inline-block;
+  border: 2px solid grey;
+  border-radius: 5px;
+  padding: 6px;
+  text-align: center;
+}
+
+ol.fave_foods {
+    background: #ccffff;
+    padding: 20px;
+    list-style-position: inside;
+}
